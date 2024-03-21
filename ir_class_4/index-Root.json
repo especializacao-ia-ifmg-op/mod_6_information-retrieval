@@ -1,0 +1,211 @@
+{
+    "fazer": {
+        "https://www.serpro.gov.br": 1.0,
+        "https://www.caixa.gov.br": 1.0,
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "neg\u00f3cios": {
+        "https://www.serpro.gov.br": 1.0,
+        "https://www.caixa.gov.br": 1.0,
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "serpro": {
+        "https://www.serpro.gov.br": 1.0,
+        "https://www.caixa.gov.br": 1.0,
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "doormat": {
+        "https://www.serpro.gov.br": 1.0,
+        "https://www.caixa.gov.br": 1.0,
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "contato": {
+        "https://www.serpro.gov.br": 1.0,
+        "https://www.caixa.gov.br": 1.0,
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "cuidado": {
+        "https://www.caixa.gov.br": 1.0,
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "destaques": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "sele\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "projetos": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "extens\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "programa": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "esporte": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "lazer": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "piel": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "fomento": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "interno": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "videocast": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "pesquisa\u00ed": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "aborda": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "orienta\u00e7\u00f5es": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "dicas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "aprova\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "edital": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "fapemig": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "processo": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "seletivo": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "simplificado": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "bolsistas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "pibic": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "a\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "pesquisas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "referente": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "campus": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "ribeir\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "neves": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "publica": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "bolsa": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "pibex": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "realiza": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "eventos": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "semana": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "dia": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "internacional": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "mulher": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "encontro": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "gr\u00eamios": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "leva": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "dezenas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "estudantes": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "reitoria": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "abertas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "inscri\u00e7\u00f5es": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "candidatos": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "elei\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "comiss\u00f5es": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "flexibiliza\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "jornada": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "lan\u00e7a": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "afastamento": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "docentes": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "participa\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "programas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "stricto": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "sensu": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "editora": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    },
+    "ifmg": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": 1.0
+    }
+}
