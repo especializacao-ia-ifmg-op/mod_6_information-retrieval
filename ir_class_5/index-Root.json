@@ -1,0 +1,1518 @@
+{
+    "fazer": {
+        "https://www.serpro.gov.br": [
+            1,
+            1,
+            1
+        ]
+    },
+    "neg\u00f3cios": {
+        "https://www.serpro.gov.br": [
+            1,
+            1,
+            1
+        ]
+    },
+    "serpro": {
+        "https://www.serpro.gov.br": [
+            1,
+            1,
+            1
+        ]
+    },
+    "doormat": {
+        "https://www.serpro.gov.br": [
+            1,
+            1,
+            1
+        ]
+    },
+    "contato": {
+        "https://www.serpro.gov.br": [
+            1,
+            1,
+            1
+        ]
+    },
+    "destaques": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "ifmg": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            3,
+            5,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            5,
+            2
+        ]
+    },
+    "abre": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            3,
+            3
+        ],
+        "https://ufmg.br/": [
+            1,
+            3,
+            3
+        ],
+        "https://ge.globo.com/": [
+            1,
+            3,
+            3
+        ]
+    },
+    "16": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "vagas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            5,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            4,
+            5,
+            2
+        ]
+    },
+    "est\u00e1gio": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "campus": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            3,
+            6,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            3,
+            6,
+            2
+        ]
+    },
+    "lan\u00e7a": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "edital": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            3,
+            6,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            3,
+            6,
+            2
+        ]
+    },
+    "afastamento": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "servidores": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "participa\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "a\u00e7\u00f5es": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "desenvolvimento": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "concurso": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "vai": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            3,
+            3
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            3,
+            3
+        ],
+        "https://ge.globo.com/": [
+            1,
+            3,
+            3
+        ]
+    },
+    "selecionar": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "identidade": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "visual": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "semana": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "nacional": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "ci\u00eancia": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "tecnologia": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "ribeir\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            2,
+            2,
+            1
+        ]
+    },
+    "neves": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            2,
+            2,
+            1
+        ]
+    },
+    "realiza": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "cerim\u00f4nia": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "entrega": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "certificados": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "curso": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "forma\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "inicial": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "continuada": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "fic": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "estudantes": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            2,
+            4,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            4,
+            2
+        ]
+    },
+    "premiados": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "2023": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "homenageados": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "evento": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "reitoria": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "programa": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            2,
+            4,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            4,
+            2
+        ]
+    },
+    "aviso": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "processo": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            2,
+            8,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            6,
+            8,
+            2
+        ]
+    },
+    "seletivo": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            2,
+            8,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            6,
+            8,
+            2
+        ]
+    },
+    "monitoria": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "\u00e2mbito": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "sele\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            2,
+            2,
+            1
+        ]
+    },
+    "projetos": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            2,
+            2
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ]
+    },
+    "extens\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            3,
+            3
+        ],
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            3,
+            3
+        ],
+        "https://ufmg.br/": [
+            1,
+            3,
+            3
+        ]
+    },
+    "esporte": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "lazer": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "piel": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "fomento": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "interno": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "videocast": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "pesquisa\u00ed": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "aborda": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "orienta\u00e7\u00f5es": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "dicas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "aprova\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "fapemig": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "simplificado": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "bolsistas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "pibic": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "a\u00e7\u00e3o": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "pesquisas": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "referente": {
+        "https://www.ifmg.edu.br/ribeiraodasneves": [
+            1,
+            1,
+            1
+        ]
+    },
+    "concess\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "aux\u00edlio": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "socioecon\u00f4mico": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "assist\u00eancia": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "estudantil": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "2024": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            3,
+            3,
+            1
+        ]
+    },
+    "resultado": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            3,
+            3,
+            1
+        ]
+    },
+    "preliminar": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "an\u00e1lise": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "documentos": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "1\u00aa": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            3,
+            3,
+            1
+        ]
+    },
+    "chamada": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            5,
+            5,
+            1
+        ]
+    },
+    "remanescentes": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            4,
+            4,
+            1
+        ]
+    },
+    "subsequentes": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "final": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ],
+        "https://ge.globo.com/": [
+            1,
+            2,
+            2
+        ]
+    },
+    "financiamento": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "ouro": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            3,
+            3,
+            1
+        ]
+    },
+    "preto": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            3,
+            3,
+            1
+        ]
+    },
+    "demanda": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "livre": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "n\u00ba": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "divulga\u00e7\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "gradua\u00e7\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "retifica\u00e7\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "01": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "prorroga\u00e7\u00e3odo": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "fluxo": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "cont\u00ednuo": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "especializa\u00e7\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "ensino": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "l\u00edngua": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "portuguesa": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ],
+        "https://ge.globo.com/": [
+            1,
+            2,
+            2
+        ]
+    },
+    "educa\u00e7\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "b\u00e1sica": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "convoca\u00e7\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "procedimento": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "heteroidentifica\u00e7\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "4\u00aa": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "cursos": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            3,
+            2
+        ],
+        "https://ufmg.br/": [
+            1,
+            3,
+            2
+        ]
+    },
+    "t\u00e9cnicos": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "integrados": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            2,
+            2,
+            1
+        ]
+    },
+    "ano": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "letivo": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "in\u00edcio": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            2,
+            2
+        ],
+        "https://ge.globo.com/": [
+            1,
+            2,
+            2
+        ]
+    },
+    "pr\u00f3xima": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "segunda": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "confira": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "programa\u00e7\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "recep\u00e7\u00e3o": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "contos": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "causos": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "participe": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "antologia": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "celebrar\u00e1": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "80": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "anos": {
+        "https://ouropreto.ifmg.edu.br/ouropreto": [
+            1,
+            1,
+            1
+        ]
+    },
+    "ingressar": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "ufmg": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "vida": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "acad\u00eamica": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "pesquisa": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "inova\u00e7\u00e3o": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "cultura": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "semin\u00e1rio": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "discute": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "autoritarismo": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "liberdade": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "newton": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "bignotto": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "ciclo": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "confer\u00eancia": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "sobre": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "golpe": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "1964": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "comunicar": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "erro": {
+        "https://ufmg.br/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "santista": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "segura": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "empate": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "xv": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "avan\u00e7a": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "semifinais": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "s\u00e9rie": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "a2": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "vit\u00f3ria": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "treze": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "duelam": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "vaga": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "quartas": {
+        "https://ge.globo.com/": [
+            2,
+            2,
+            1
+        ]
+    },
+    "copa": {
+        "https://ge.globo.com/": [
+            2,
+            2,
+            1
+        ]
+    },
+    "nordeste": {
+        "https://ge.globo.com/": [
+            2,
+            2,
+            1
+        ]
+    },
+    "siga": {
+        "https://ge.globo.com/": [
+            2,
+            2,
+            1
+        ]
+    },
+    "l\u00edder": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "grupo": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "sport": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "recebe": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "juazeirense": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "acompanhe": {
+        "https://ge.globo.com/": [
+            2,
+            2,
+            1
+        ]
+    },
+    "chances": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "classifica\u00e7\u00e3o": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "n\u00e1utico": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "visita": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "embalado": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "crb": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "altos": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "querem": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "lugar": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "vila": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "nova": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "atropela": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "aparecidense": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "goian\u00e3o": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "sesi": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "araraquara": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "19": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "0": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "vence": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "catanduva": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "53": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "pontos": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    },
+    "diferen\u00e7a": {
+        "https://ge.globo.com/": [
+            1,
+            1,
+            1
+        ]
+    }
+}
